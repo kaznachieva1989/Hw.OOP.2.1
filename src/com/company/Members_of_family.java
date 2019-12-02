@@ -6,10 +6,6 @@ public class Members_of_family {
     House house;
     Family_connections connections;
 
-    public void setHouse(House house) {
-        this.house = house;
-    }
-
     public Members_of_family() {
     }
 
